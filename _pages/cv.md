@@ -12,7 +12,6 @@ redirect_from:
 Education
 ======
 * B.S. in Mathematics and Physics, Harvey Mudd College, 2016
-* M.S. in Mathematics, Stony Brook University, 2018
 * Ph.D in Mathematics, Stony Brook University, 2021 (expected)
 
 Publications

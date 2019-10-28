@@ -9,6 +9,3 @@ redirect_from:
 ---
 
 This is the academic website of Matthew Dannenberg!
-
-
-This website was created from the [academicpages format](https://academicpages.github.io).

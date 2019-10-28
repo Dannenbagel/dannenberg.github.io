@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Matthew Dannenberg"
 title_separator          : "-"
 name                     : &name "Matthew Dannenberg"
-description              : &description "Ph.D. Student at Stony Brook University"
+description              : &description "Ph.D. Candidate at Stony Brook University"
 url                      : https://matthewdannenberg.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "matthewdannenberg.github.io"
@@ -82,10 +82,10 @@ analytics:
 author:
   name             : "Matthew Dannenberg"
   avatar           : "profile.png"
-  bio              : "Ph.D. student working on dynamical systems"
+  bio              : "Working to understand the many faces of renormalization in dynamical systems and statistical physics"
   location         : "Stony Brook University"
   employer         :
-  googlescholar    : #TODO: "http://yourfullgooglescholarurl.com"
+  googlescholar    : "https://scholar.google.com/citations?user=lFXNn34AAAAJ"
   email            :
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
@@ -252,7 +252,7 @@ sass:
 permalink: /:categories/:title/
 # paginate: 5 # amount of posts to show
 # paginate_path: /page:num/
-timezone: America/Los_Angeles # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
+timezone: America/New_York # http://en.wikipedia.org/wiki/List_of_tz_database_time_zones
 
 
 # Plugins
