@@ -10,14 +10,16 @@ This is intended to be a discussion-based seminar.  People with any level of bac
 
 ## References
 
+Here are some links to relevant materials as they come up.
+
   * [Goldenfeld, Nigel. _Lectures on phase transitions and the renormalization group._ CRC Press, 2018.](https://www.amazon.com/Lectures-Transitions-Renormalization-Frontiers-Physics-ebook/dp/B07B9Y5YFG)
 
 
 ## Schedule
 
-| Speaker            | Date   | Topic      |
+| Speaker   | Date   | Topic      |
 | --------         | ------ | ------------------------------------------------------------ |
-| Matthew Dannenberg    | 11/01/2019   | Description of the item in the list                          |
-| [Jane Doe](#)    | 2019   | Description of the item in the list                          |
-| [Doe Doe](#)     | 2022   | Description of the item in the list                          |
+| Matthew Dannenberg    | 11/01/2019   | Similarity Solutions and 'Anomalous Dimensions' of the Heat Equation and Barenblatt's Equation - Goldenfeld 10.1-3|
+| TBD   | TBD  | Renormalization of Barenblatt's Equation and Divergences in Perturbation Theory - Goldenfeld 10.4-6    |
+| TBD   | TBD   | TBD                          |
 
