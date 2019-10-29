@@ -1,9 +1,15 @@
 ---
 layout: archive
-title: "List of Seminars"
+title: "List of Seminars, Past and Present"
 permalink: /seminars/
 redirect_from:
   - /seminar
 ---
 
-##  * [Renormalization Seminar Fall 2019](./renormalizationfall2019/)
+##  Present Seminars
+
+###  * [Renormalization Seminar Fall 2019](./renormalizationfall2019/)
+
+<!---
+##  Past Seminars
+--->
