@@ -17,9 +17,9 @@ Here are some links to relevant materials as they come up.
 
 ## Schedule
 
-| Speaker   | Date   | Topic      |
-| --------         | ------ | ------------------------------------------------------------ |
-| Matthew Dannenberg    | 11/01/2019   | Similarity Solutions and 'Anomalous Dimensions' of the Heat Equation and Barenblatt's Equation - Goldenfeld 10.1-3|
-| TBD   | TBD  | Renormalization of Barenblatt's Equation and Divergences in Perturbation Theory - Goldenfeld 10.4-6    |
-| TBD   | TBD   | TBD                          |
+| Speaker   | Date   | Topic      | Source Sections |
+| --------         | ------ | ------------------------------------------------------------ | -------- |
+| Matthew Dannenberg    | 11/01/2019   | Similarity Solutions and 'Anomalous Dimensions' of the Heat Equation and Barenblatt's Equation | Goldenfeld 10.1-3 |
+| TBD   | TBD  | Renormalization of Barenblatt's Equation and Divergences in Perturbation Theory | Goldenfeld 10.4-6    |
+| TBD   | TBD   | TBD  | TBD                 |
 
