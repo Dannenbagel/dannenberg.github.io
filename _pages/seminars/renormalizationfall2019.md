@@ -20,6 +20,10 @@ Here are some links to relevant materials as they come up.
 | Speaker   | Date   | Topic      | Source Sections |
 | --------         | ------ | ------------------------------------------------------------ | -------- |
 | Matthew Dannenberg    | 11/01/2019   | Similarity Solutions and 'Anomalous Dimensions' of the Heat Equation and Barenblatt's Equation | Goldenfeld 10.1-3 |
-| TBD   | TBD  | Renormalization of Barenblatt's Equation and Divergences in Perturbation Theory | Goldenfeld 10.4-6    |
-| TBD   | TBD   | TBD  | TBD                 |
+| El Mehdi Ainasse  | 11/04/2019  | Renormalization of Barenblatt's Equation | Goldenfeld 10.4   |
+| TBD   | 11/11/2019   | Divergences in Perturbation Theory and Renormalization  | Goldenfeld 10.5-6 |
+| TBD   | 11/18/2019	| One-Dimensional Dynamics of Unimodal Maps	|	TBD 	|
+| TBD 	| 11/25/2019	| Renormalization of Unimodal Maps and Feigenbaum Universality 	| TBD 	|
+| TBD 	| 12/02/2019	| A Brief Overview of Statistical Mechanics and the Ising Model | TBD 	|
+| TBD 	| 12/09/2019 	| Renormalization and Phase Transitions in the 1D and 2D Ising Models 	| TBD 	|
 
