@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-My full CV may be found [here](../CV/cv_7.pdf).
+My full CV may be found [here](../CV/Matthew_Dannenberg_CV.pdf).
 
 Education
 ======
