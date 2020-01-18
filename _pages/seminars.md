@@ -8,8 +8,10 @@ redirect_from:
 
 ##  Present Seminars
 
-###  * [Renormalization Seminar Fall 2019](./renormalizationfall2019/)
+###  * [Analysis Student Seminar Spring 2020](./analysisstudentspring2020/)
 
 <!---
+	--->
 ##  Past Seminars
---->
+
+###  * [Renormalization Seminar Fall 2019](./renormalizationfall2019/)
