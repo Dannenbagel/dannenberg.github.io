@@ -16,15 +16,15 @@ This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from 
 
 #### Gaussian Free Fields
 
-	* Sheffield, _Gaussian Free Fields for Mathematicians_ [GFF1](https://arxiv.org/abs/math/0312099)
-		* A formal, functional-analytic description of Gaussian Free Fields.
-	* Werner, _Topics on the two-dimensional Gaussian Free Field_ [GFF2](https://pdfs.semanticscholar.org/2607/b47d11a2b1758063795bb33348d9f963011d.pdf)
-		* A mostly probabilistic description of the 2D Gaussian Free Field with some intuition from Brownian Motion.
+  * Sheffield, _Gaussian Free Fields for Mathematicians_ [GFF1](https://arxiv.org/abs/math/0312099)
+    * A formal, functional-analytic description of Gaussian Free Fields.
+  * Werner, _Topics on the two-dimensional Gaussian Free Field_ [GFF2](https://pdfs.semanticscholar.org/2607/b47d11a2b1758063795bb33348d9f963011d.pdf)
+    * A mostly probabilistic description of the 2D Gaussian Free Field with some intuition from Brownian Motion.
 
 #### Liouville Quantum Gravity
 
-	* Gwynne, _Random Surfaces and Liouville Quantum Gravity_ [LQV1](https://arxiv.org/abs/1908.05573)
-		* This is a survey article written specifically to be readable to graduate students.  We use it as an overall outline for this seminar.
+  * Gwynne, _Random Surfaces and Liouville Quantum Gravity_ [LQV1](https://arxiv.org/abs/1908.05573)
+    * This is a survey article written specifically to be readable to graduate students.  We use it as an overall outline for this seminar.
 
 
 ## Schedule
