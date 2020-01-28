@@ -18,7 +18,8 @@ This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from 
 
   * Lawler, _Notes on Probability_ [Prob1](http://www.math.uchicago.edu/~lawler/probnotes.pdf)
     * A crash course to terminology common in probability.  Particularly useful as a reference.
-    * <details> <summary> Some extra terminology to be aware of which is not used in Lawler: </summary>
+    * <details> <summary> Some extra terminology to be aware of which is not used in Lawler: (click to expand) </summary>
+    	
       * The _law_ of a random variable is termed the _distribution_ of the random variable in Lawler - both mean the same thing.  If $f: \Omega \to X$ is a random variable with $P$ the probability measure on $\Omega$, then the _law_ of $f$ is the resulting pushforward measure on $X$.
       * If $(\Omega_1, P_1)$ and $(\Omega_2, P_2)$ are probability spaces with $f: \Omega_1 \times \Omega_2 \to X$, then the _marginal_ or _marginal distribution_ of $f$ on $\Omega_1$ is $\int_{\Omega_2} f(x,y) dP_2(y)$.
   </details>
