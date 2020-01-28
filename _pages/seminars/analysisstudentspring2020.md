@@ -14,6 +14,14 @@ All meetings are held on Wednesdays at 4pm in the Math Tower, Room 5-127.
 
 This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from a 2017 MIT class taught by Scott Sheffield contains several really useful resources.
 
+#### Probability
+
+  * Lawler, _Notes on Probability_ [Prob1](http://www.math.uchicago.edu/~lawler/probnotes.pdf)
+    * A crash course to terminology common in probability.  Particularly useful as a reference.
+    * Some extra terminology to be aware of which is not used in Lawler:
+      * The _law_ of a random variable is termed the _distribution_ of the random variable in Lawler - these are two names for the same concept.
+      * MathJax testing: $a^2 + b_2 = \int_0^1 c^2 ~ d\epsilon$
+
 #### Gaussian Free Fields
 
   * Sheffield, _Gaussian Free Fields for Mathematicians_ [GFF1](https://arxiv.org/abs/math/0312099)
@@ -24,13 +32,26 @@ This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from 
 #### Liouville Quantum Gravity
 
   * Gwynne, _Random Surfaces and Liouville Quantum Gravity_ [LQV1](https://arxiv.org/abs/1908.05573)
-    * This is a survey article written specifically to be readable to graduate students.  We use it as an overall outline for this seminar.
+    * This is a survey article written specifically to be readable to graduate students.  We use it as an overall outline for the first few parts of this seminar.
 
 
 ## Schedule
 
 | Date   | Speaker   | Topic      | Reading |
-| --------  | ------ | ------------------------------------------------------------ | --------------- |
-| 1/29/2020    | N/A   | Topic Proposals and Introduction | N/A |
-
-
+| ------  | ------------------ | ------------------------------------------------------------ | -------------- |
+| 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
+| 2/5/2020   | N/A    | A Crash Course on Probability, Brownian Motion | N/A |
+| 2/12/2020  | N/A    | TBD | N/A |
+| 2/19/2020  | N/A    | TBD | N/A |
+| 2/26/2020  | N/A    | TBD | N/A |
+| 3/4/2020   | N/A    | TBD | N/A |
+| 3/11/2020  | N/A    | TBD | N/A |
+| 3/18/2020  | N/A    | _Spring Break_ | N/A |
+| 3/25/2020  | N/A    | TBD | N/A |
+| 4/1/2020   | N/A    | TBD | N/A |
+| 4/8/2020   | N/A    | TBD | N/A |
+| 4/15/2020  | N/A    | TBD | N/A |
+| 4/22/2020  | N/A    | TBD | N/A |
+| 4/29/2020  | N/A    | TBD | N/A |
+| 5/6/2020   | N/A    | TBD | N/A |
+| 5/13/2020  | N/A    | TBD | N/A |
