@@ -6,11 +6,43 @@ permalink: /seminars/analysisstudentspring2020/
 
 During this seminar we will investigate Liouville Quantum Gravity in some depth.  
 
-This is a graduate student seminar, with talks given by graduate students participants.  It is didactic in tone, as we all attempt together to understand the topic being discussed.  Of course, people with any level of background are welcome, and everyone is especially encouraged to ask questions.
+This is a graduate student seminar, with talks given by graduate students participants.  We all attempt together to understand the topic being discussed.  Of course, people with any level of background are welcome, and everyone is especially encouraged to ask questions.
+
+## Main Sources
+
+  * Lawler, _Notes on Probability_ [Prob1](http://www.math.uchicago.edu/~lawler/probnotes.pdf)
+  * Berestycki, _Introduction to the Gaussian Free Field and Liouville Quantum Gravity_ [LQG2](http://www.statslab.cam.ac.uk/~beresty/Articles/oxford4.pdf)
+  * Le Gall, _Brownian Geometry_ [TBM2](https://link.springer.com/article/10.1007/s11537-019-1821-7)
+
+## Schedule
 
 All meetings are held on Wednesdays at 4pm in the Math Tower, Room 5-127.
 
-## Relevant Materials
+Reading sections in parentheses are optional, and we'll likely exclude them unless we have spare time.
+
+| Date   | Speaker   | Topic      | Reading Sections |
+| ----- | -------------------- | ------------------------------------------------------------ | -------------- |
+| 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
+| 2/5/2020   | N/A    | A Crash Course on Probability, Martingales | **Prob1** 1-7 |
+| 2/12/2020  | N/A    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
+| 2/19/2020  | N/A    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
+| 2/26/2020  | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
+| 3/4/2020   | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
+| 3/11/2020  | N/A    | Typical Points for the Liouville Measure, Random Surfaces and Conformal Structure | **LQG2** 2.3,2.5-2.7 |
+| 3/18/2020  | N/A    | _Spring Break_ | N/A |
+| 3/25/2020  | N/A    | TBD | N/A |
+| 4/1/2020   | N/A    | TBD | N/A |
+| 4/8/2020   | N/A    | TBD | N/A |
+| 4/15/2020  | N/A    | TBD | N/A |
+| 4/22/2020  | N/A    | TBD | N/A |
+| 4/29/2020  | N/A    | TBD | N/A |
+| 5/6/2020   | N/A    | TBD | N/A |
+| 5/13/2020  | N/A    | TBD | N/A |
+
+
+## Potentially Useful Materials
+
+A few of these resources we'll work through in detail.  The rest should be thought of as context for those interested or as reference documents containing proofs of certain results we'll use along the way.
 
 This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from a 2017 MIT class taught by Scott Sheffield contains several really useful resources.
 
@@ -53,26 +85,11 @@ This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from 
   * Rhodes, Vargas, _Gaussian Multiplicative Chaos and Applications: A Review_ [LQG5](https://arxiv.org/abs/1305.6221)
     * While on its face this topic does not seem clearly related to LQG, multiplicative chaos is in fact the general case, with LQG being an example of multiplicative chaos applied to the GFF.  We won't use this in the seminar, but it may be of interest.
 
+#### The Brownian Map
 
-## Schedule
+  * Le Gall, Miermont, _Scaling Limits of Random Trees and Planar Maps_ [TBM1](https://arxiv.org/abs/1101.4856)
+    * This article goes into exhaustive detail into each of the constituent types of discrete and continuous objects which are used in a thorough construction of the Brownian Map.  It also features some very descriptive pictures.
+  * Le Gall, _Brownian Geometry_ [TBM2](https://link.springer.com/article/10.1007/s11537-019-1821-7)
+    * A more concise description of the material leading to the Brownian Map, with a bit less detail in the proofs but more focus on intuition.
+  
 
-Sections in parentheses are optional, and we'll likely exclude them.
-
-| Date   | Speaker   | Topic      | Reading Sections |
-| ----- | -------------------- | ------------------------------------------------------------ | -------------- |
-| 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
-| 2/5/2020   | N/A    | A Crash Course on Probability, Martingales | **Prob1** 1-7 |
-| 2/12/2020  | N/A    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
-| 2/19/2020  | N/A    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
-| 2/26/2020  | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
-| 3/4/2020   | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
-| 3/11/2020  | N/A    | Typical Points for the Liouville Measure | **LQG2** 2.3,2.5,(2.4) |
-| 3/18/2020  | N/A    | _Spring Break_ | N/A |
-| 3/25/2020  | N/A    | TBD | N/A |
-| 4/1/2020   | N/A    | TBD | N/A |
-| 4/8/2020   | N/A    | TBD | N/A |
-| 4/15/2020  | N/A    | TBD | N/A |
-| 4/22/2020  | N/A    | TBD | N/A |
-| 4/29/2020  | N/A    | TBD | N/A |
-| 5/6/2020   | N/A    | TBD | N/A |
-| 5/13/2020  | N/A    | TBD | N/A |
