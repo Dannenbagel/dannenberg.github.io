@@ -27,7 +27,7 @@ Reading sections in parentheses are optional, and we'll likely exclude them unle
 | 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
 | 2/5/2020   | Timothy Alland    | A Crash Course on Probability, Martingales | **Prob1** 1-7 |
 | 2/12/2020  | Matthew Dannenberg    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
-| 2/19/2020  | N/A    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
+| 2/19/2020  | Jack Burkart    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
 | 2/26/2020  | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
 | 3/4/2020   | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
 | 3/11/2020  | N/A    | Typical Points for the Liouville Measure, Random Surfaces and Conformal Structure | **LQG2** 2.3,2.5-2.7 |
