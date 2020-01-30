@@ -10,6 +10,8 @@ This is a graduate student seminar, with talks given by graduate students partic
 
 ## Main Sources
 
+These are the main articles we'll make use of this semester.  Other potentially useful sources are listed below the schedule.
+
   * Lawler, _Notes on Probability_ [Prob1](http://www.math.uchicago.edu/~lawler/probnotes.pdf)
   * Berestycki, _Introduction to the Gaussian Free Field and Liouville Quantum Gravity_ [LQG2](http://www.statslab.cam.ac.uk/~beresty/Articles/oxford4.pdf)
   * Le Gall, _Brownian Geometry_ [TBM2](https://link.springer.com/article/10.1007/s11537-019-1821-7)
@@ -23,8 +25,8 @@ Reading sections in parentheses are optional, and we'll likely exclude them unle
 | Date   | Speaker   | Topic      | Reading Sections |
 | ----- | -------------------- | ------------------------------------------------------------ | -------------- |
 | 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
-| 2/5/2020   | N/A    | A Crash Course on Probability, Martingales | **Prob1** 1-7 |
-| 2/12/2020  | N/A    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
+| 2/5/2020   | Timothy Alland    | A Crash Course on Probability, Martingales | **Prob1** 1-7 |
+| 2/12/2020  | Matthew Dannenberg    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
 | 2/19/2020  | N/A    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
 | 2/26/2020  | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
 | 3/4/2020   | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
