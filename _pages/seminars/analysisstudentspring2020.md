@@ -27,7 +27,7 @@ Reading sections in parentheses are optional, and we'll likely exclude them unle
 | 1/29/2020  | N/A    | Topic Proposals and Introduction | N/A |
 | 2/5/2020   | Timothy Alland    | A Crash Course on Probability, Martingales | **Prob1** 1-5 |
 | 2/12/2020  | Timothy Alland    | An Introduction to Martingales | **Prob1** 6-7 |
-| 2/19/2020  | Matthew Dannenberg    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2 |
+| 2/19/2020  | Matthew Dannenberg    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2, **Prob7** |
 | 2/26/2020  | Jack Burkart    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
 | 3/4/2020   | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
 | 3/11/2020  | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
@@ -66,6 +66,8 @@ This [course website](http://math.mit.edu/~sheffield/fall2017math177.html) from 
   * Taylor, _Random Fields_ [Prob6](http://statweb.stanford.edu/~jtaylo/courses/stats352/notes/random_fields.pdf)
     * This is included as a reference mainly for sections 2.2.1 and 2.2.2, which give a good self-contained definition of _Gaussian Random Variables_.
       * Extra terminology: A **centered Gaussian random variable** is a Gaussian random variable with mean 0.
+  * Morters, Peres, _Brownian Motion_ [Prob7](stat.berkeley.edu/~aldous/205B/bmbook.pdf)
+    * A very thorough discussion of the myriad properties of Brownian Motion.  A good reference, even if we'll only skim it during the seminar.
 
 #### Gaussian Free Fields
 
