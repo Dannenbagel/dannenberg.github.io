@@ -29,11 +29,11 @@ Reading sections in parentheses are optional, and we'll likely exclude them unle
 | 2/12/2020  | Timothy Alland    | An Introduction to Martingales | **Prob1** 6-7 |
 | 2/19/2020  | Matthew Dannenberg    | Brownian Motion, Brownian Bridges, Gaussian Random Variables | **Prob6** 2.2.1-2.2.2, **Prob7** |
 | 2/26/2020  | Jack Burkart    | The Continuous Gaussian Free Field | **LQG2** 1.2-1.3,(1.4) |
-| 3/4/2020   | N/A    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
-| 3/11/2020  | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
+| 3/4/2020   | N/A    | Go to the [Analysis Workshop](http://scgp.stonybrook.edu/archives/29488) at the Simons Center! | N/A |
+| 3/11/2020  | Ying Hong Tham    | Markov and Conformal Properties of the GFF, Circle Regularization, Thick Points | **LQG2** 1.5-1.8 |
 | 3/18/2020  | N/A    | _Spring Break_ | N/A |
-| 3/25/2020  | N/A    | Typical Points for the Liouville Measure, Random Surfaces and Conformal Structure | **LQG2** 2.3,2.5-2.7 |
-| 4/1/2020   | N/A    | TBD | N/A |
+| 3/25/2020  | N/A    | Introduction to Liouville Quantum Gravity in the $L^2$ Phase | **LQG2** 2-2.2 |
+| 4/1/2020   | N/A    | Typical Points for the Liouville Measure, Random Surfaces and Conformal Structure | **LQG2** 2.3,2.5-2.7 |
 | 4/8/2020   | N/A    | TBD | N/A |
 | 4/15/2020  | N/A    | TBD | N/A |
 | 4/22/2020  | N/A    | TBD | N/A |
